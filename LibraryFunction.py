@@ -5,7 +5,7 @@ Created on 05-May-2018
 '''
 from collections import defaultdict
 
-test_dict = {'A':1, 'B':2}
+test_dict = {'A':1, 'B':2, 'Z':9}
 print(test_dict)
 
 test_default = test_dict.setdefault('C',3)
